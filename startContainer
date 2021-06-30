@@ -1,0 +1,1 @@
+docker container run -it --mount type=bind,src=/home/riry/workspace/cpp,dst=/work/ cpp/dev:latest
