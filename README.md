@@ -1,0 +1,3 @@
+# cpp-brainfuck
+
+$ ./brainfuck filename
